@@ -73,8 +73,8 @@ Provide instructions on setting up the project locally. Include prerequisites, i
 
 List any software or dependencies required to run the project.
 
-- Prerequisite 1
-- Prerequisite 2
+- Andriod Studio for Application
+- npm install -> npm run dev for Web Application ( Building Phase Not Working Properly ) 
 
 ### Installation
 
