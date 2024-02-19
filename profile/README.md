@@ -2,6 +2,8 @@
 ImageX empowers skin health! AI analyzes your photos, suggesting potential diagnoses & offering personalized care tips. Accessible, accurate, & always learning **- your pocket dermatologist!**
 Project Image 
 
+Project Video : https://youtu.be/cOnhwrzHHVE
+
 **For Web**
 ![10](https://github.com/Diagnosis-of-Dermatological-IC-24/.github/assets/84167034/53de536a-069d-402a-a838-61ad611fa221)
 ![1](https://github.com/Diagnosis-of-Dermatological-IC-24/.github/assets/84167034/1f56a803-5c0f-492d-bcb0-091094d3ca00)
