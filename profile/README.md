@@ -1,6 +1,5 @@
 # Diagnosis of Dermatological IC-24
 ImageX empowers skin health! AI analyzes your photos, suggesting potential diagnoses & offering personalized care tips. Accessible, accurate, & always learning **- your pocket dermatologist!**
-Project Image 
 
 Project Video : https://youtu.be/cOnhwrzHHVE
 
